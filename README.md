@@ -6,6 +6,7 @@ Homebrew formulae and casks by [olishiz](https://github.com/olishiz).
 
 ```bash
 brew tap olishiz/tap
+brew trust olishiz/tap          # required by modern Homebrew for third-party taps
 brew install --cask connection-monitor
 ```
 
