@@ -7,7 +7,7 @@ cask "connection-monitor" do
   desc "Menu bar live connection monitor (ICMP ping latency)"
   homepage "https://github.com/olishiz/connection-monitor"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "ConnectionMonitor.app"
 
