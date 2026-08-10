@@ -1,6 +1,6 @@
 cask "connection-monitor" do
   version "1.0.0"
-  sha256 "1ed39952026e3c2e134394f46405c0eaacb264963be4620264ae00c648a0fb80"
+  sha256 "013f48d40e86a5c3594b9449150ff1a28103f608a5d8cf0c7c2079129d61acab"
 
   url "https://github.com/olishiz/connection-monitor/releases/download/v#{version}/ConnectionMonitor-#{version}.dmg"
   name "Connection Monitor"
